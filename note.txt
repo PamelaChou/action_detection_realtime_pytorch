@@ -1,2 +1,0 @@
-what i've learned
-argparse : list don't use type=list, it will becomes nested list
